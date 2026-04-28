@@ -1,10 +1,7 @@
 # Bugbounty POC by @nvk0x
 
-# Differences Between Foundry and Foundry-Polkadot
-
-> ⚠️ Important:</strong> Only this section is up-to-date and should be considered the correct source of documentation. All other sections may be outdated or inaccurate.</span>
-
-This section outlines the key differences between the original Foundry toolkit ([Foundry](https://github.com/foundry-rs/foundry)) and the ParityTech Foundry-Polkadot ([Foundry-Polkadot](https://github.com/paritytech/foundry-polkadot)). **It is intended for developers already familiar with Foundry who are interested in using the Foundry-Polkadot for Polkadot blockchain development.** The focus is on new features, changes, and unsupported functionalities in the Foundry-Polkadot, emphasizing its adaptation for Polkadot.
+# Foundry-Polkadot
+**It is intended for developers already familiar with Foundry who are interested in using the Foundry-Polkadot for Polkadot blockchain development.** The focus is on new features, changes, and unsupported functionalities in the Foundry-Polkadot, emphasizing its adaptation for Polkadot.
 
 ## 1. Installation instruction
 
