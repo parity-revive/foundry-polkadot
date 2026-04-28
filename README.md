@@ -11,7 +11,7 @@ This section outlines the key differences between the original Foundry toolkit (
 Foundryup-polkadot is the official installer for the Foundry toolchain. To install `foundryup-polkadot`, open your terminal and run the following command:
 
 ```bash
-curl -L https://raw.githubusercontent.com/paritytech/foundry-polkadot/refs/heads/master/foundryup/install | bash
+curl -L https://raw.githubusercontent.com/parity-revive/foundry-polkadot/refs/heads/main/install.sh | bash
 ```
 
 This will install `foundryup-polkadot`. Simply follow the on-screen instructions, and the `foundryup-polkadot` command will become available in your CLI.
